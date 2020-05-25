@@ -1,2 +1,3 @@
-# intelligent-systems
-Intelligent Systems
+# **Intelligent Systems**
+
+- **KNN**
